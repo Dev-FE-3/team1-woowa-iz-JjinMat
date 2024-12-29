@@ -1,149 +1,54 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>JJinmat - Project Page</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Arial', sans-serif;
-      background-color: #141414;
-      color: white;
-    }
-    .header {
-      text-align: center;
-      padding: 40px 20px;
-      background: linear-gradient(90deg, #fa003e, #ff4500);
-      font-size: 3rem;
-      color: white;
-      font-weight: bold;
-      letter-spacing: 2px;
-      animation: fadeIn 2s;
-    }
-    .team-section {
-      text-align: center;
-      padding: 30px;
-      border-bottom: 2px solid #333;
-    }
-    .team-section h2 {
-      font-size: 2rem;
-      margin-bottom: 20px;
-      color: #fa003e;
-      text-transform: uppercase;
-    }
-    .team-container {
-      display: flex;
-      justify-content: center;
-      gap: 40px;
-      flex-wrap: wrap;
-    }
-    .team-member {
-      text-align: center;
-    }
-    .team-member img {
-      width: 120px;
-      height: 120px;
-      border-radius: 50%;
-      transition: transform 0.3s ease;
-    }
-    .team-member img:hover {
-      transform: scale(1.1);
-    }
-    .team-member strong {
-      display: block;
-      margin-top: 10px;
-      font-size: 1.2rem;
-      color: white;
-    }
-  </style>
-</head>
-<body>
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=180&text=JJinmat🍽️&animation=fadeIn&fontColor=fa003e&fontSize=70" />
-    </div>
-<div align="center" style=" color: white; padding: 20px; ">
-    <h2>우아한 아이들(woowahaniz) </h2>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=JJinmat%F0%9F%8D%BD%EF%B8%8F&animation=fadeIn&fontColor=fa003e&fontSize=60" />
+</div>
+<div align="center">
+    <h2>우아한 아이들(woowahaniz)</h2>
 </div>
 
-  <!-- Team Section -->
-  <div class="team-section">
-    <div class="team-container">
-      <div class="team-member">
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
         <a href="https://github.com/YosepAhn">
-          <img src="https://avatars.githubusercontent.com/u/113437204?v=4" alt="안요셉">
+          <img src="https://avatars.githubusercontent.com/u/113437204?v=4" width="120" height="120"  alt="Profile Picture"/>
         </a>
+        <br />
         <strong>안요셉</strong>
-      </div>
-      <div class="team-member">
+      </td>
+      <td align="center">
         <a href="https://github.com/jiyoon04">
-          <img src="https://avatars.githubusercontent.com/u/94222592?v=4" alt="정지윤">
+          <img src="https://avatars.githubusercontent.com/u/94222592?v=4" width="120" height="120" alt="Profile Picture"/>
         </a>
+        <br />
         <strong>정지윤</strong>
-      </div>
-      <div class="team-member">
+      </td>
+      <td align="center">
         <a href="https://github.com/minsung521">
-          <img src="https://avatars.githubusercontent.com/u/37471565?v=4" alt="김민성">
+          <img src="https://avatars.githubusercontent.com/u/37471565?v=4" width="120" height="120" alt="Profile Picture"/>
         </a>
+        <br />
         <strong>김민성</strong>
-      </div>
-      <div class="team-member">
-        <a href="https://github.com/pha1155">
-          <img src="https://avatars.githubusercontent.com/u/38741900?v=4" alt="박현아">
+      </td>
+      <td align="center">
+        <a href="https://github.com/teammate3">
+          <img src="https://avatars.githubusercontent.com/u/38741900?v=4" width="120" height="120" alt="Profile Picture"/>
         </a>
+        <br />
         <strong>박현아</strong>
-      </div>
-      <div class="team-member">
+      </td>
+      <td align="center">
         <a href="https://github.com/mirinae700">
-          <img src="https://avatars.githubusercontent.com/u/182064852?v=4" alt="전유진">
+          <img src="https://avatars.githubusercontent.com/u/182064852?v=4" width="120" height="120" alt="Profile Picture"/>
         </a>
+        <br />
         <strong>전유진</strong>
-      </div>
-    </div>
-  </div>
-</body>
-</html>
-
-## <span style="color:#fa003e;">Tech Stacks
-<div style="background-color: black; padding: 20px;">
-    <h3 style="color: white;">Frontend</h3>
-   <div align="center">
-     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
-     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
-      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
-     <img src="https://img.shields.io/badge/React.js-61DAFB?style=plastic&logo=React&logoColor=white">
-   </div>
-    <h3 style="color: white;">Backend</h3>
-    <div align="center">
-     <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
-   </div>
-
-  <h3 style="color: white;">Database</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
-  </div>
-
-  <h3 style="color: white;">Cloud & Deployment</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon-AWS&logoColor=white">
-  </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-## <span style="color:#fa003e;">Tools
-<div style="background-color: black; padding: 20px;">
-  <div align="center"">
-        <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
-        <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=plastic&logo=Zoom&logoColor=white">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
-  </div>
-</div>
-
-
----
-
-#  <span style="color:#fa003e;">About JJinmat🍽️ 
+<h1 align="center">About JJinmat🍽️</h1>
 
 **&quot;JJinmat&quot;** 은 사용자의 위치를 기반으로 주변 맛집 정보를 한눈에 확인할 수 있는 맛집 정보 애플리케이션입니다.
 
@@ -166,7 +71,45 @@
     - 작성한 리뷰 확인 및 수정/삭제.
     - 개인정보 수정 및 계정 삭제.
 
----
+<div >
+  <h2 align="center"> Tech Stacks</h2>
+
+  <h3>Frontend</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=plastic&logo=React&logoColor=white">
+  </div>
+
+  <h3>Backend</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
+  </div>
+
+  <h3>Database</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
+  </div>
+
+  <h3>Cloud & Deployment</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon-AWS&logoColor=white">
+  </div>
+</div>
+
+
+<div>
+  <h2 align="center"> Tools</h2>
+  <div align="center">
+        <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
+        <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
+        <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=plastic&logo=Zoom&logoColor=white">
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
+  </div>
+</div>
+
 
 ## 📚 Installation
 
@@ -222,10 +165,10 @@ npm run build:production
 ---
 
 <div align="center">
-    <h3>즐거운 외식을 위해 <strong>Jinmat</strong>과 함께하세요! 😊</h3>
+    <h3>즐거운 외식을 위해 <strong>"JJinmat"</strong>과 함께하세요! 😊</h3>
 </div>
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=Jinmat%F0%9F%8D%BD%EF%B8%8F&animation=fadeIn&fontColor=fa003e&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=JJinmat%F0%9F%8D%BD%EF%B8%8F&animation=fadeIn&fontColor=fa003e&fontSize=60" />
 </div>
 
