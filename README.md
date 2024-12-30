@@ -1,4 +1,3 @@
----
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=JJinmat%F0%9F%8D%BD%EF%B8%8F&animation=fadeIn&fontColor=fa003e&fontSize=70" />
 </div>
@@ -11,35 +10,35 @@
     <tr>
       <td align="center">
         <a href="https://github.com/YosepAhn">
-          <img src="https://avatars.githubusercontent.com/u/113437204?v=4" width="100" height="100"  alt="Profile Picture"/>
+          <img src="https://avatars.githubusercontent.com/u/113437204?v=4" width="120" height="120"  alt="Profile Picture"/>
         </a>
         <br />
         <strong>안요셉</strong>
       </td>
       <td align="center">
         <a href="https://github.com/jiyoon04">
-          <img src="https://avatars.githubusercontent.com/u/94222592?v=4" width="100" height="100" alt="Profile Picture"/>
+          <img src="https://avatars.githubusercontent.com/u/94222592?v=4" width="120" height="120" alt="Profile Picture"/>
         </a>
         <br />
         <strong>정지윤</strong>
       </td>
       <td align="center">
         <a href="https://github.com/minsung521">
-          <img src="https://avatars.githubusercontent.com/u/37471565?v=4" width="100" height="100" alt="Profile Picture"/>
+          <img src="https://avatars.githubusercontent.com/u/37471565?v=4" width="120" height="120" alt="Profile Picture"/>
         </a>
         <br />
         <strong>김민성</strong>
       </td>
       <td align="center">
-        <a href="https://github.com/teammate3">
-          <img src="https://avatars.githubusercontent.com/u/38741900?v=4" width="100" height="100" alt="Profile Picture"/>
+        <a href="https://github.com/pha1155">
+          <img src="https://avatars.githubusercontent.com/u/38741900?v=4" width="120" height="120" alt="Profile Picture"/>
         </a>
         <br />
         <strong>박현아</strong>
       </td>
       <td align="center">
         <a href="https://github.com/mirinae700">
-          <img src="https://avatars.githubusercontent.com/u/182064852?v=4" width="100" height="100" alt="Profile Picture"/>
+          <img src="https://avatars.githubusercontent.com/u/182064852?v=4" width="120" height="120" alt="Profile Picture"/>
         </a>
         <br />
         <strong>전유진</strong>
@@ -73,7 +72,7 @@
     - AI 챗봇을 통해 사용자가 입력한 키워드에 따라 추천 맛집 리스트를 제안.
     - 제공된 맛집 정보를 클릭하면 지도를 통해 해당 맛집의 위치를 시각적으로 확인 가능.
     - "길찾기" 기능을 통해 자동차, 대중교통, 도보 등 다양한 이동 옵션을 지원하여 목적지까지의 경로를 손쉽게 확인.
-    - 
+    
 3. **찜 및 리뷰 기능**
     - 마음에 드는 맛집을 "찜" 목록에 추가하여 관리할 수 있는 기능 제공.
     - "마이페이지"에서 찜한 맛집을 쉽게 확인하고 필요에 따라 삭제 가능.
