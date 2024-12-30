@@ -1,45 +1,45 @@
+---
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=JJinmat%F0%9F%8D%BD%EF%B8%8F&animation=fadeIn&fontColor=fa003e&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=JJinmat%F0%9F%8D%BD%EF%B8%8F&animation=fadeIn&fontColor=fa003e&fontSize=70" />
 </div>
 <div align="center">
-    <h2>우아한 아이들(woowahaniz)</h2>
+    <h3>우아한 아이들(woowahaniz)</h3>
 </div>
-
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <a href="https://github.com/YosepAhn">
-          <img src="https://avatars.githubusercontent.com/u/113437204?v=4" width="120" height="120"  alt="Profile Picture"/>
+          <img src="https://avatars.githubusercontent.com/u/113437204?v=4" width="100" height="100"  alt="Profile Picture"/>
         </a>
         <br />
         <strong>안요셉</strong>
       </td>
       <td align="center">
         <a href="https://github.com/jiyoon04">
-          <img src="https://avatars.githubusercontent.com/u/94222592?v=4" width="120" height="120" alt="Profile Picture"/>
+          <img src="https://avatars.githubusercontent.com/u/94222592?v=4" width="100" height="100" alt="Profile Picture"/>
         </a>
         <br />
         <strong>정지윤</strong>
       </td>
       <td align="center">
         <a href="https://github.com/minsung521">
-          <img src="https://avatars.githubusercontent.com/u/37471565?v=4" width="120" height="120" alt="Profile Picture"/>
+          <img src="https://avatars.githubusercontent.com/u/37471565?v=4" width="100" height="100" alt="Profile Picture"/>
         </a>
         <br />
         <strong>김민성</strong>
       </td>
       <td align="center">
         <a href="https://github.com/teammate3">
-          <img src="https://avatars.githubusercontent.com/u/38741900?v=4" width="120" height="120" alt="Profile Picture"/>
+          <img src="https://avatars.githubusercontent.com/u/38741900?v=4" width="100" height="100" alt="Profile Picture"/>
         </a>
         <br />
         <strong>박현아</strong>
       </td>
       <td align="center">
         <a href="https://github.com/mirinae700">
-          <img src="https://avatars.githubusercontent.com/u/182064852?v=4" width="120" height="120" alt="Profile Picture"/>
+          <img src="https://avatars.githubusercontent.com/u/182064852?v=4" width="100" height="100" alt="Profile Picture"/>
         </a>
         <br />
         <strong>전유진</strong>
@@ -48,28 +48,43 @@
   </table>
 </div>
 
+---
+
 <h1 align="center">About JJinmat🍽️</h1>
 
-**&quot;JJinmat&quot;** 은 사용자의 위치를 기반으로 주변 맛집 정보를 한눈에 확인할 수 있는 맛집 정보 애플리케이션입니다.
+**JJinmat**은 사용자의 위치를 기반으로 **주변 맛집 정보를 쉽고 직관적으로 확인**할 수 있는 맛집 정보 애플리케이션입니다.
 
-로그인 후 방송이나 가이드북을 통해 소개된 유명 맛집의 정보를 한 눈에 볼 수 있으며 음식 분류별 서치도 가능합니다. GPS를 통해 사용자 설정 범위내 맛집 정보를 지도와 함께 제공하며, 리뷰 작성 및 찜 기능 등 다양한 사용자 맞춤 기능을 지원합니다. 다른 서비스와 차별화된 AI 챗봇을 통해 나만을 위한 맛집 추천을 받으세요!
+이 애플리케이션은 로그인 후 사용자가 선호하는 **맛집 정보를 한눈에 확인**할 수 있도록 설계되었습니다. 방송이나 가이드북을 통해 알려진 유명 맛집 정보는 물론, 음식 분류별로 손쉽게 검색이 가능하며, 사용자의 **GPS를 기반으로 설정한 범위 내 맛집 정보를 지도와 함께 시각적으로 제공**합니다.
+
+또한, 사용자는 맛집 리뷰를 작성하거나 찜 목록에 추가하여 자신만의 맛집 리스트를 관리할 수 있습니다. **AI 챗봇 기능을 통해 개인 취향에 맞춘 맛집 추천**을 받을 수 있습니다.
+
+**JJinmat**과 함께라면 새로운 맛집을 탐방하고 나만의 미식 경험을 기록하는 과정이 더욱 쉽고 즐거워집니다.
 
 ## 🚀 Features
 1. **회원가입 및 로그인**
-    - 이메일 및 비밀번호 기반 회원가입/로그인.
+    - 이메일과 비밀번호를 기반으로 간단하고 안전한 회원가입/로그인 기능 제공.
+    - 비밀번호 암호화 처리 및 데이터 보호를 위한 최신 보안 기술 적용.
+    - 가입된 이메일을 통한 비밀번호 재설정(비밀번호 찾기) 기능 지원.
+    - 로그인 상태 유지 기능으로 자주 사용하는 기기에서 다시 로그인할 필요 없음.
+
 2. **편리한 맛집 탐색**
-    - 사용자의 GPS 위치를 기반으로 **사용자 설정 범위 내** 맛집 목록 제공.
-    - 카테고리 필터링으로 맞춤형 탐색 가능.
-    - AI 챗봇으로 원하는 키워드의 맛집 추천 받기 가능.
-    - 맛집의 위치를 지도에서 시각적으로 확인.
-    - 클릭 한 번으로 길찾기 기능 지원 (자동차, 대중교통, 도보 옵션).
+    - 사용자의 GPS 위치를 기반으로 **사용자 설정 범위 내** 맛집 목록을 직관적으로 제공.
+    - 다양한 카테고리(예: 또간집, 흑백요리사, 한식, 중식, 양식 등) 필터링을 통해 개인 맞춤형 탐색 가능.
+    - AI 챗봇을 통해 사용자가 입력한 키워드에 따라 추천 맛집 리스트를 제안.
+    - 제공된 맛집 정보를 클릭하면 지도를 통해 해당 맛집의 위치를 시각적으로 확인 가능.
+    - "길찾기" 기능을 통해 자동차, 대중교통, 도보 등 다양한 이동 옵션을 지원하여 목적지까지의 경로를 손쉽게 확인.
+    - 
 3. **찜 및 리뷰 기능**
-    - 맛집을 찜하고 마이페이지에서 확인/삭제.
-    - 맛집에 리뷰 작성, 수정, 삭제 기능 제공.
+    - 마음에 드는 맛집을 "찜" 목록에 추가하여 관리할 수 있는 기능 제공.
+    - "마이페이지"에서 찜한 맛집을 쉽게 확인하고 필요에 따라 삭제 가능.
+    - 방문한 맛집에 대해 리뷰를 작성하거나, 작성한 리뷰를 수정/삭제할 수 있는 기능 지원.
+    - 다른 사용자가 작성한 리뷰를 통해 맛집 정보를 미리 확인하고 참고 가능.
+
 4. **마이페이지**
-    - 사용자의 찜 목록 관리.
-    - 작성한 리뷰 확인 및 수정/삭제.
-    - 개인정보 수정 및 계정 삭제.
+    - 사용자가 찜한 맛집 목록을 한눈에 확인하고, 필요에 따라 관리 가능.
+    - 작성한 리뷰를 모아볼 수 있으며, 개별 리뷰에 대해 수정 및 삭제 작업이 가능.
+    - 회원 정보(예: 이름, 이메일 등)를 수정하거나, 원할 경우 계정을 안전하게 삭제할 수 있는 기능 제공.
+
 
 <div >
   <h2 align="center"> Tech Stacks</h2>
@@ -98,7 +113,6 @@
   </div>
 </div>
 
-
 <div>
   <h2 align="center"> Tools</h2>
   <div align="center">
@@ -110,34 +124,42 @@
   </div>
 </div>
 
+---
 
 ## 📚 Installation
 
 1. 저장소 클론:
 
-```bash
-git clone https://github.com/YosepAhn/jinmat.git
-cd jinmat
-```
+    ```bash
+    git clone https://github.com/Dev-FE-3/team1-woowahaniz-jjinmat.git
+    cd team1-woowahaniz-jjinmat
+    ```
+
 
 2. 의존성 설치:
 
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 
 3. 환경 변수 설정:
-`.env.example` 파일을 `.env`로 복사한 뒤 수정.
-
+    - 프로젝트 루트에 있는 `.env.example` 파일을 복사하여 `.env` 파일로 이름을 변경합니다.
+    - `.env` 파일에서 프로젝트에 필요한 환경 변수를 설정합니다.
+    
+    Example::
+    ```bash
+    REACT_APP_API_URL=https://your-api-endpoint.com
+    REACT_APP_GOOGLE_MAPS_API_KEY=your-google-maps-key
+    ```
 ---
 
 ## 🧑‍💻 Run Locally
 
 ### 개발 환경 실행:
 
-```bash
-npm run dev
-```
+  ```bash
+  npm run dev
+  ```
 
 ### 운영 환경 빌드:
 
@@ -172,3 +194,4 @@ npm run build:production
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=JJinmat%F0%9F%8D%BD%EF%B8%8F&animation=fadeIn&fontColor=fa003e&fontSize=60" />
 </div>
 
+---
