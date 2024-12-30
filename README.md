@@ -54,7 +54,7 @@
 
 ---
 
-<br />
+
 <h1 align="center">🔎 About JJinmat 🔍</h1>
 <br />
 
@@ -161,7 +161,7 @@
     - 프로젝트 루트에 있는 `.env.example` 파일을 복사하여 `.env` 파일로 이름을 변경합니다.
     - `.env` 파일에서 프로젝트에 필요한 환경 변수를 설정합니다.
     
-    Example::
+    Example:
     ```bash
     REACT_APP_API_URL=https://your-api-endpoint.com
     REACT_APP_GOOGLE_MAPS_API_KEY=your-google-maps-key
@@ -186,7 +186,7 @@ npm run build:production
 ---
 <br />
 
-## 📖 document
+## 📖 Document
 
 프로젝트 설계 문서는 design 디렉토리에 마크다운 파일로 기록되어있습니다.
 각각의 설계 문서는 다음과 같습니다.
