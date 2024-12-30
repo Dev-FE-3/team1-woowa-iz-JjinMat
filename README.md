@@ -9,29 +9,18 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=6000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Woowahan-Iz" alt="Typing SVG" /></a>
 </div>
 
+
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <a href="https://github.com/YosepAhn">
-          <img src="https://avatars.githubusercontent.com/u/113437204?v=4" width="120" height="120"  alt="Profile Picture"/>
+          <img src="https://avatars.githubusercontent.com/u/113437204?v=4" width="120" height="120" alt="Profile Picture"/>
         </a>
         <br />
         <strong>안요셉</strong>
-      </td>
-      <td align="center">
-        <a href="https://github.com/jiyoon04">
-          <img src="https://avatars.githubusercontent.com/u/94222592?v=4" width="120" height="120" alt="Profile Picture"/>
-        </a>
         <br />
-        <strong>정지윤</strong>
-      </td>
-      <td align="center">
-        <a href="https://github.com/minsung521">
-          <img src="https://avatars.githubusercontent.com/u/37471565?v=4" width="120" height="120" alt="Profile Picture"/>
-        </a>
-        <br />
-        <strong>김민성</strong>
+        <span>ISTP</span>
       </td>
       <td align="center">
         <a href="https://github.com/pha1155">
@@ -39,6 +28,26 @@
         </a>
         <br />
         <strong>박현아</strong>
+        <br />
+        <span>ISTP</span>
+      </td>
+      <td align="center">
+        <a href="https://github.com/minsung521">
+          <img src="https://avatars.githubusercontent.com/u/37471565?v=4" width="120" height="120" alt="Profile Picture"/>
+        </a>
+        <br />
+        <strong>김민성</strong>
+        <br />
+        <span>INFJ</span>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jiyoon04">
+          <img src="https://avatars.githubusercontent.com/u/94222592?v=4" width="120" height="120" alt="Profile Picture"/>
+        </a>
+        <br />
+        <strong>정지윤</strong>
+        <br />
+        <span>ISTJ</span>
       </td>
       <td align="center">
         <a href="https://github.com/mirinae700">
@@ -46,10 +55,13 @@
         </a>
         <br />
         <strong>전유진</strong>
+        <br />
+        <span>ISTJ</span>
       </td>
     </tr>
   </table>
 </div>
+
 <br />
 
 ---
@@ -231,5 +243,7 @@ npm run build:production
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=JJinmat%F0%9F%8D%BD%EF%B8%8F&animation=fadeIn&fontColor=fa003e&fontSize=60" />
 </div>
+
+<br />
 
 ---
