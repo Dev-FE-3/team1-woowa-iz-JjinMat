@@ -1,8 +1,12 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=JJinmat%F0%9F%8D%BD%EF%B8%8F&animation=fadeIn&fontColor=fa003e&fontSize=70" />
 </div>
+<br />
+
+---
+
 <div align="center">
-    <h3>우아한 아이들(woowahaniz)</h3>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=6000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Woowahan-Iz" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -46,11 +50,13 @@
     </tr>
   </table>
 </div>
+<br />
 
 ---
 
-<h1 align="center">About JJinmat🍽️</h1>
-
+<br />
+<h1 align="center">🔎 About JJinmat 🔍</h1>
+<br />
 **JJinmat**은 사용자의 위치를 기반으로 **주변 맛집 정보를 쉽고 직관적으로 확인**할 수 있는 맛집 정보 애플리케이션입니다.
 
 이 애플리케이션은 로그인 후 사용자가 선호하는 **맛집 정보를 한눈에 확인**할 수 있도록 설계되었습니다. 방송이나 가이드북을 통해 알려진 유명 맛집 정보는 물론, 음식 분류별로 손쉽게 검색이 가능하며, 사용자의 **GPS를 기반으로 설정한 범위 내 맛집 정보를 지도와 함께 시각적으로 제공**합니다.
@@ -58,6 +64,8 @@
 또한, 사용자는 맛집 리뷰를 작성하거나 찜 목록에 추가하여 자신만의 맛집 리스트를 관리할 수 있습니다. **AI 챗봇 기능을 통해 개인 취향에 맞춘 맛집 추천**을 받을 수 있습니다.
 
 **JJinmat**과 함께라면 새로운 맛집을 탐방하고 나만의 미식 경험을 기록하는 과정이 더욱 쉽고 즐거워집니다.
+
+<br />
 
 ## 🚀 Features
 1. **회원가입 및 로그인**
@@ -84,6 +92,7 @@
     - 작성한 리뷰를 모아볼 수 있으며, 개별 리뷰에 대해 수정 및 삭제 작업이 가능.
     - 회원 정보(예: 이름, 이메일 등)를 수정하거나, 원할 경우 계정을 안전하게 삭제할 수 있는 기능 제공.
 
+<br />
 
 <div >
   <h2 align="center"> Tech Stacks</h2>
@@ -112,8 +121,11 @@
   </div>
 </div>
 
+<br />
+
 <div>
   <h2 align="center"> Tools</h2>
+  <br />
   <div align="center">
         <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
@@ -121,9 +133,12 @@
         <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
   </div>
+  <br />
 </div>
 
 ---
+
+<br />
 
 ## 📚 Installation
 
@@ -152,6 +167,8 @@
     ```
 ---
 
+<br />
+
 ## 🧑‍💻 Run Locally
 
 ### 개발 환경 실행:
@@ -165,8 +182,25 @@
 ```bash
 npm run build:production
 ```
+---
+<br />
+
+## 📖 document
+
+프로젝트 설계 문서는 design 디렉토리에 마크다운 파일로 기록되어있습니다.
+각각의 설계 문서는 다음과 같습니다.
+
+* 요구사항 정의서 
+  * 제품이 제공해야되는 기능 요구 정의서입니다.
+  * 요구사항 정의서에 기술된 기능은 최소 기능 요구사항이며 추상적일 수 있으며 기능의 구체화는 제품 구현 단계에서 이루어집니다.
+* 프로젝트 설계서
+  * 요구사항 정의서를 기반으로 프로젝트를 설계합니다.
+* 기능 정의서
+  * 사용자 스토리 기반으로 세부 기능을 정의합니다.
 
 ---
+
+<br />
 
 ## 🤝 Collaboration
 
@@ -176,6 +210,7 @@ npm run build:production
 2. **Dev Branch**: 기능 개발 브랜치.
 3. **Feature Branches**: 각 기능별 작업.
 
+<br />
 
 ## 🌟 Future Enhancements
 
@@ -184,10 +219,13 @@ npm run build:production
 - **커뮤니티 기능**: 사용자 간 소통 및 리뷰 공유.
 
 ---
+<br />
 
 <div align="center">
     <h3>즐거운 외식을 위해 <strong>"JJinmat"</strong>과 함께하세요! 😊</h3>
 </div>
+
+<br />
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=JJinmat%F0%9F%8D%BD%EF%B8%8F&animation=fadeIn&fontColor=fa003e&fontSize=60" />
