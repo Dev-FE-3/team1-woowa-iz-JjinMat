@@ -75,6 +75,7 @@
 <br />
 
 <div align="center">
+
 **JJinmat**은 사용자의 위치를 기반으로 
 <br />
 
