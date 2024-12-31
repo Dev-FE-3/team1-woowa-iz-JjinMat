@@ -242,10 +242,6 @@ npm run build:production
     <img src="./img/jjinmat-footer-img.png">
 </div>
 
-<div align="center">
-    <h3>즐거운 외식을 위해 <strong>"JJinmat"</strong>과 함께하세요! 😊</h3>
-</div>
-
 <br />
 
 <div align="center">
