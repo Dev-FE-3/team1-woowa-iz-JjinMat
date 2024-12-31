@@ -3,6 +3,10 @@
 </div>
 <br />
 
+<div align="center">
+    <img src="./img/jjinmat-header-img.png">
+</div>
+
 ---
 
 <div align="center">
@@ -233,6 +237,10 @@ npm run build:production
 
 ---
 <br />
+
+<div align="center">
+    <img src="./img/jjinmat-footer-img.png">
+</div>
 
 <div align="center">
     <h3>즐거운 외식을 위해 <strong>"JJinmat"</strong>과 함께하세요! 😊</h3>
